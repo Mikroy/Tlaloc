@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tlaloc</string>
+    <string name="Cargando">Cargando</string>
+    <string name="Version">Version</string>
+    <string name="DescripcionDeImagen">Descripción de imagen</string>
+    <string name="Preparando">Preparando aplicación</string>
+    <string name="Espere">Calmado, no se desespere</string>
+
+    <string name="Accesar">Acceder</string>
+    <string name="IngresarPass">Favor de ingresar password</string>
+    <string name="IngreseUsuario">Favor de ingresar usuario</string>
+    <string name="faltaUsuario">Favor de ingresar usuario para continuar</string>
+    <string name="faltaPassword">Favor de ingresar password para continuar</string>
+    <string name="accesoCorrecto">Acceso Correcto</string>
+    <string name="accesoIncorrecto">Usuario y/o contarseña incorrecto</string>
+</resources>
