@@ -13,4 +13,12 @@
     <string name="faltaPassword">Favor de ingresar password para continuar</string>
     <string name="accesoCorrecto">Acceso Correcto</string>
     <string name="accesoIncorrecto">Usuario y/o contarseña incorrecto</string>
+    'main_menu.xml
+    <string name="logout">Logout</string>
+    <string name="about">Acerca de la app</string>
+    <string name="Curso_android">Curso de android</string>
+    <string name="empresa">Quinto Sol</string>
+    <string name="desarrollador">Roger</string>
+    <string name="suigueme_facebook">Sigueme en facebook\nhttps://www.facebook.com/mickey.ruiz.182/</string>
+    <string name="alertaPermisos">Esta aplciaicón requiere de ciertos permisos, activelelos para comenzar</string>
 </resources>
